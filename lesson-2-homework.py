@@ -10,7 +10,7 @@ while True:
     user_input = input("Enter Your String (Press ENTER to quit): ")
 
     if user_input == "":
-        print("Program Ends...")
+        print("Program Ends... Thanks!")
         break
 # 3. Print out four different versions of the string using various string 
 #    functions:
